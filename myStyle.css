@@ -1,8 +1,14 @@
 body {
-    background-color: lightblue;
+    background-image: url("Geo-effect_bg.png");
+    text-align: center;
+    color: white;
+    font-family: Source Code Pro Light;
+}
+h1 {
+    margin-top: 100px;
+    font-size: 65px;
 }
 
-h1 {
+h3 {
     color: navy;
-    margin-left: 20px;
 }
